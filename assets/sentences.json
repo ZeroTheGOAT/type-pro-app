@@ -1,0 +1,38 @@
+{
+  "easy": [
+    "I love my dog",
+    "the sky is blue",
+    "Flutter is fun",
+    "cats are cute",
+    "read a good book",
+    "coding is awesome",
+    "learn new things",
+    "practice makes perfect",
+    "keep it simple",
+    "work hard play hard"
+  ],
+  "medium": [
+    "the quick brown fox jumps over the lazy dog",
+    "practice makes perfect every single day",
+    "coding is a valuable skill to learn",
+    "always remember to save your work",
+    "technology changes rapidly in our world",
+    "success comes from hard work and dedication",
+    "learning new programming languages is exciting",
+    "mobile apps make life easier for everyone",
+    "clean code is easier to maintain and debug",
+    "user experience matters in modern applications"
+  ],
+  "hard": [
+    "this is a challenging twenty word typing prompt for you to practice and improve your typing accuracy and speed effectively",
+    "accuracy and speed are both important when you are practicing your typing skills for professional or personal growth",
+    "the best way to get better at typing is to practice consistently and track your progress over time",
+    "modern software development requires excellent typing skills for efficient coding and documentation",
+    "keyboard shortcuts and touch typing techniques can significantly improve your productivity at work",
+    "developing muscle memory through regular practice sessions will help you type faster without looking",
+    "professional programmers often type thousands of words daily while writing code and documentation",
+    "improving your typing speed can save hours of time over the course of a software development project",
+    "consistent practice with proper finger placement will lead to significant improvements in typing speed",
+    "mastering touch typing techniques allows you to focus on content rather than finding keys on the keyboard"
+  ]
+} 
